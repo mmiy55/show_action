@@ -2,7 +2,7 @@
 A simple chrome extension designed to improve accessibility of the browsed web page for color blind users.
 
 Version 1 is focused on "Call for Action": 
-A lot of the time we use font color or font weight to denote links and buttons, this may be not ideal for color blind user.
+A lot of the time we use font color or font weight to denote links and buttons, this may be not ideal for color blind users.
 
 #1 Underline links:
 The extension will underline all the anchor text to make it easy to distinguish from regular text.
