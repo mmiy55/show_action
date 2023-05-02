@@ -1,0 +1,13 @@
+{
+  "name": "Show Action",
+  "version" : "1.0",
+  "description": "A Chrome extension that makes more visible links and buttons for colorblinded people",
+  "manifest_version" : 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "scripting", "activeTab", "tabs"
+  ],
+  "action": {}
+}
